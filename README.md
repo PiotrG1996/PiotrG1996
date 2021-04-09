@@ -42,6 +42,12 @@
       </a>
       <br>NodeJS
     </td>
+     <td align="center" width="96">
+      <a href="https://console.cloud.google.com/freetrial">
+        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>GCP
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -57,43 +63,48 @@
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
-        <img src="bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="linux.svg" width="48" height="48" alt="Linux" />
+      <a href="https://www.linux.org/forums/#linux-tutorials.122" >
+        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
+    </td>
+     <td align="center" width="96">
+      <a href="https://developer.chrome.com/docs/devtools/" >
+        <img src="./img/devtools.svg" width="48" height="48" alt="DevTools" />
+      </a>
+      <br>DevTools
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Tech I'm willing to start learning soon ...</h2>
+<h2 align="left" id="macropower-tech">Internet of Things and Robotics</h2>
 
-> My daily stack I work with.
+> What I have learnt during my studies...
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/ros.svg" width="48" height="48" alt="ROS" />
       </a>
-      <br>Python
+      <br>ROS
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/microcontroller.jpg" width="48" height="48" alt="Microcontrollers" />
       </a>
-      <br>JavaScript
+      <br>Microcontrollers
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/embedded-systems.jpg" width="48" height="48" alt="Embedded Systems" />
       </a>
-      <br>Bootstrap
+      <br>Embedded Systems
     </td>
   </tr>
   <tr>
@@ -103,24 +114,25 @@
       </a>
       <br>Docker
     </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
     <td align="center" width="96">
       <a href="#" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/bash.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    
   </tr>
 </table>
 
