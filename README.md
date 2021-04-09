@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Piotr 👋.
+</br>
 <div>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrG1996&langs_count=8" />
 </a>
@@ -10,8 +10,7 @@
 </a>
   </div>
 
-
-<h2 align="left" id="macropower-tech">My favourite Tech</h2>
+<h2 align="left">My favourite Web Technologies</h2>
 
 > My daily stack I work with.
 
@@ -82,14 +81,14 @@
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Internet of Things and Robotics</h2>
+<h2 align="left" id="">Internet of Things and Robotics</h2>
 
 > What I have learnt during my studies...
 
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#">
+      <a href="https://www.ros.org/about-ros/">
         <img src="./img/ros.svg" width="48" height="48" alt="ROS" />
       </a>
       <br>ROS
@@ -115,13 +114,13 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#" >
+      <a href="https://docs.docker.com/" >
         <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
-      <a href="#" >
+      <a href="https://grafana.com/docs/" >
         <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
@@ -165,6 +164,13 @@
       </a>
       <br>NumPy
     </td>
+      </td>
+     <td align="center" width="96">
+      <a href="https://console.cloud.google.com/freetrial">
+        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>GCP
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -175,7 +181,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Jupyter" />
+        <img src="./img/jupyter.svg" width="48" height="48" alt="Jupyter" />
       </a>
       <br>Jupyter
     </td>
