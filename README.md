@@ -104,7 +104,13 @@
       <a href="#">
         <img src="./img/embedded-systems.jpg" width="48" height="48" alt="Embedded Systems" />
       </a>
-      <br>Embedded Systems
+      <br>Embedded
+    </td>
+     <td align="center" width="96">
+      <a href="https://docs.python.org/3/">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
   </tr>
   <tr>
@@ -132,7 +138,59 @@
       </a>
       <br>Bash
     </td>
-    
+  </tr>
+</table>
+
+<h2 align="left" id="macropower-tech">Machine Learning</h2>
+
+> I am also into:
+
+<table>
+  <tr>
+      <td align="center" width="96">
+      <a href="https://docs.python.org/3/">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+     <td align="center" width="96">
+      <a href="https://pytorch.org/">
+        <img src="./img/pytorch.svg" width="48" height="48" alt="Pytorch" />
+      </a>
+      <br>Pytorch
+    </td>
+      <td align="center" width="96">
+      <a href="https://numpy.org/">
+        <img src="./img/numpy.svg" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="https://opencv.org/" >
+        <img src="./img/opencv.png" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Jupyter" />
+      </a>
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.nvidia.com/en-us/autonomous-machines/jetson-store/">
+        <img src="./img/nvidia.svg" width="48" height="48" alt="Nvidia" />
+      </a>
+      <br>Nvidia
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
   </tr>
 </table>
 
