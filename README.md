@@ -67,10 +67,10 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="https://www.linux.org/forums/#linux-tutorials.122" >
-        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
+      <a href="https://docs.djangoproject.com/" >
+        <img src="./img/django.svg" width="48" height="48" alt="Django" />
       </a>
-      <br>Linux
+      <br>Django
     </td>
      <td align="center" width="96">
       <a href="https://developer.chrome.com/docs/devtools/" >
