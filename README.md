@@ -208,36 +208,36 @@
 <table>
   <tr>
       <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
+      <a href="https://docs.ansible.com/">
         <img src="./img/ansible-icon.svg" width="48" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
     <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
+      <a href="https://kubernetes.io/docs/home/">
         <img src="./img/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
     <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
+      <a href="https://docs.influxdata.com/">
         <img src="./img/influxdb.svg" width="48" height="48" alt="InfluxDB" />
       </a>
       <br>InfluxDB
     </td>
     <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
+      <a href="https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops">
         <img src="./img/azure.svg" width="48" height="48" alt="Azure DevOps" />
       </a>
       <br>Azure DevOps
       <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
         <img src="./img/c.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
       <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
+      <a href="https://selenium-python.readthedocs.io/">
         <img src="./img/selenium-logo.svg" width="48" height="48" alt="Selenium" />
       </a>
       <br>Selenium
