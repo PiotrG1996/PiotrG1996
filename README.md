@@ -83,8 +83,7 @@
 
 <h2 align="left" id="">Internet of Things and Robotics</h2>
 
-> What I have learnt during my studies...
-
+> What I really enjoy doing:
 <table>
   <tr>
     <td align="center" width="96">
@@ -201,7 +200,7 @@
 </table>
 
 
-<h2 align="left" id="macropower-tech">Machine Learning</h2>
+<h2 align="left" id="macropower-tech">DevOps tools</h2>
 
 > I am going to learn DevOps tools:
 
