@@ -202,7 +202,7 @@
 
 <h2 align="left" id="macropower-tech">DevOps tools</h2>
 
-> I am going to learn DevOps tools:
+> I am going to learn the following tech:
 
 <table>
   <tr>
