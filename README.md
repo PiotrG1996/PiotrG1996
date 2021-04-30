@@ -199,7 +199,7 @@
   </tr>
 </table>
 
-
+<!--
 <h2 align="left" id="macropower-tech">DevOps tools</h2>
 
 > I am going to learn the following tech:
@@ -244,7 +244,7 @@
     
   </tr>
 </table>
-
+-->
 
 <!--
 **PiotrG1996/PiotrG1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
