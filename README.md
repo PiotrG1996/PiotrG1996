@@ -1,14 +1,28 @@
-### Hi, I'm Piotr 👋.
 </br>
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrG1996&langs_count=8" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiotrG1996&show_icons=true&count_private=true&include_all_commits=true" alt="PiotrG1996" align="center" />
-</a>
-  </div>
+<table align="center">
+<tr align="center">
+  <td align="center"> 
+        <div align="center">
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrG1996&langs_count=8" />
+          </a>
+          <div>
+          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpiotrgapski.ml%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=googlechrome.svg&icon_color=%23E7E7E7&title=Website+Views&edge_flat=false"/></a>
+          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPiotrG1996%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub+Views&edge_flat=false"/></a>
+          </div>
+          <div align="center">
+          <a><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Website%20Status&up_color=green&up_message=Online&url=https%3A%2F%2Fpiotrgapski.ml%2F"></a>
+          <a><img alt="GitHub" src="https://img.shields.io/badge/License-MIT-green"></a>
+          </div>
+    </td>
+    
+  <td align="center"> 
+      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=PiotrG1996&show_icons=true&count_private=true&include_all_commits=true" alt="PiotrG1996" align="center" /></a>
+      <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+      </div>
+  </td>
+</tr>
+</table>
 
 <h2 align="left">My favourite Web Technologies</h2>
 
@@ -16,40 +30,7 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://devdocs.io/javascript/">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/en/1.1.x/">
-        <img src="./img/flask.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-     </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org/en/docs/">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-     <td align="center" width="96">
-      <a href="https://console.cloud.google.com/freetrial">
-        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>GCP
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
+     <td align="center" width="96"> 
       <a href="https://dev.w3.org/html5/html-author/" >
         <img src="./img/html.svg" width="48" height="48" alt="HTML" />
       </a>
@@ -66,18 +47,51 @@
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="https://docs.djangoproject.com/" >
-        <img src="./img/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://developer.chrome.com/docs/devtools/" >
         <img src="./img/devtools.svg" width="48" height="48" alt="DevTools" />
       </a>
       <br>DevTools
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://docs.python.org/3/">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://flask.palletsprojects.com/en/1.1.x/">
+        <img src="./img/flask.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="https://devdocs.io/javascript/">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://console.cloud.google.com/freetrial">
+        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>GCP
+    </td>
+<!--     <td align="center" width="96">
+      <a href="https://docs.djangoproject.com/" >
+        <img src="./img/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td> -->
+<!--   <td align="center" width="96">
+      <a href="https://nodejs.org/en/docs/">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td> -->
   </tr>
 </table>
 
