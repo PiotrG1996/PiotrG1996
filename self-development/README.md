@@ -3,33 +3,33 @@
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/PiotrG1996/PiotrG1996/lifetime-goals)
 [![Version v1.0](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/PiotrG1996/PiotrG1996/lifetime-goals)
 
-> **Disclaimer**: Zawartość tego repozytorium bazuje na indywidualnym podejciu do rozwoju osobistego poprzez zaangazowanie w aktywności jakie jak ksiąki, tutoriale, dokumentacje, blogi itp.  
+> **Disclaimer**: Zawartość tego repozytorium bazuje na indywidualnym podejciu do rozwoju osobistego poprzez zaangażowanie w aktywności jakie jak czytanie książek, oglądanie kursów, słuchanie podcastów i webinarów, śledzenie nowości pojawiających się w internecie i tak dalej...  
 
 
 
 - [Personal Development](#personal-development)
     - [Aktywności rozwijające w kierunku programowania](#aktywności-rozwijające-w-kierunku-programowania)
-    - [Ksiazki](#ksiazki)
+    - [Ksiażki](#ksiazki)
     - [Youtube](#youtube)
     - [Forum / Blog](#forum--blog)
-    - [*Techniki skutecznego czytania ksiązek](#techniki-skutecznego-czytania-ksiązek)
+    - [*Techniki skutecznego czytania książek](#techniki-skutecznego-czytania-ksiązek)
 
 ### Aktywności rozwijające w kierunku programowania
 
    1. [ ] Przegląd dostępnych <i>tutoriali</i> w internecie
-   2. [ ] Wybór płatnych / polecanych tutoriali 
-   3. [x] Czytanie blogów technicznych
-   4. [ ] Udzielanie się na forum internetowym
-   5. [x] Czytanie ksiązek programistycznych
+   2. [ ] Wybór płatnych / polecanych kursów i szkoleń 
+   3. [x] Czytanie blogów technologicnzych
+   4. [ ] Udzielanie się na stronach internetowych typu Stack OverFlow, GitHub itp.
+   5. [x] Czytanie książek programistycznych
    6. [ ] Aktywny udział w wydarzeniach programistycznych
    7. [ ] Wykonywanie własnych projektów DIY
-   8. [ ] Zaangazownaie w OpenSource
+   8. [ ] Zaangażownaie w kontrybucję do OpenSource
    9. [ ] Czytanie dokumentacji technicznej
-   10. [ ] Rozwój repozytorium z prywatnym kodem
+   10. [ ] Rozwój własnego repozytorium poprzez regularne wprowadzanie zmian w projektach
 
 
 
-### Ksiazki
+### Książki
 
 1. [X] [*Nauka implementacji algorytmów w Pythonie*](https://helion.pl/ksiazki/40-algorytmow-ktore-powinien-znac-kazdy-programista-nauka-implementacji-algorytmow-w-pythonie-imran-ahmad,40algo.htm#format/d) by Imran Ahmad
    <br>
