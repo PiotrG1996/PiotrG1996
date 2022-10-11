@@ -18,7 +18,7 @@
     
   <td align="center"> 
       <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=PiotrG1996&show_icons=true&count_private=true&include_all_commits=true" alt="PiotrG1996" align="center" /></a>
-      <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+      <p align="center"><img src="https://raw.githubusercontent.com/PiotrG1996/PiotrG1996/master/img/programming.gif" /></p>
       </div>
   </td>
 </tr>
