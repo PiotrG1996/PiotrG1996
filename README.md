@@ -24,7 +24,7 @@
 </tr>
 </table>
 
-<h2 align="left">My favourite Web Technologies</h2>
+<h2 align="left">Web Development Technology Stack</h2>
 
 > My daily stack I work with.
 
@@ -95,16 +95,16 @@
   </tr>
 </table>
 
-<h2 align="left" id="">Internet of Things and Robotics</h2>
+<h2 align="left" id="">Internet of Things and Mobile Robotics</h2>
 
-> What I really enjoy doing:
+> My recently grasp of experience... 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="https://www.ros.org/about-ros/">
         <img src="./img/ros.svg" width="48" height="48" alt="ROS" />
       </a>
-      <br>ROS
+      <br>ROS/ROS2
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -184,6 +184,12 @@
       </a>
       <br>GCP
     </td>
+      <td align="center" width="96">
+      <a href="https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html">
+        <img src="./img/tensorRT.png" width="80" height="48" alt="TensorRT" />
+      </a>
+      <br>TensorRT
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -203,6 +209,12 @@
         <img src="./img/nvidia.svg" width="48" height="48" alt="Nvidia" />
       </a>
       <br>Nvidia
+    </td>
+     <td align="center" width="96">
+      <a href="https://www.blender.org/">
+        <img src="./img/blender.png" width="48" height="48" alt="Blender" />
+      </a>
+      <br>Blender
     </td>
     <td align="center"  width="96">
       <a href="#">
