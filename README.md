@@ -97,7 +97,7 @@
 
 <h2 align="left" id="">Internet of Things and Mobile Robotics</h2>
 
-> My recently grasp of experience... 
+> My recent grasp of experience... 
 <table>
   <tr>
     <td align="center" width="96">
