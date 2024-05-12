@@ -26,7 +26,7 @@
 
 <h2 align="left">Web Development Technology Stack</h2>
 
-> My daily stack I work with.
+> Here's the tech stack I work with daily:
 
 <table>
   <tr>
@@ -97,7 +97,7 @@
 
 <h2 align="left" id="">Internet of Things and Mobile Robotics</h2>
 
-> My recent grasp of experience... 
+> Recent areas of exploration:
 <table>
   <tr>
     <td align="center" width="96">
@@ -155,7 +155,7 @@
 
 <h2 align="left" id="macropower-tech">Machine Learning</h2>
 
-> I am also into:
+> Also exploring:
 
 <table>
   <tr>
