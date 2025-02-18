@@ -1,3 +1,5 @@
+# Piotr Gapski | Machine Learning & Computer Vision Engineer
+
 </br>
 <table align="center">
 <tr align="center">
@@ -24,136 +26,30 @@
 </tr>
 </table>
 
-<h2 align="left">Web Development Technology Stack</h2>
+---
 
-> Here's the tech stack I work with daily:
+## 🚀✨ **Top Machine Learning Tools & Computer Vision Techniques**  
 
-<table>
-  <tr>
-     <td align="center" width="96"> 
-      <a href="https://dev.w3.org/html5/html-author/" >
-        <img src="./img/html.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center"  width="96">
-      <a href="https://css-tricks.com/">
-        <img src="./img/css.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.chrome.com/docs/devtools/" >
-        <img src="./img/devtools.svg" width="48" height="48" alt="DevTools" />
-      </a>
-      <br>DevTools
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/en/1.1.x/">
-        <img src="./img/flask.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="https://devdocs.io/javascript/">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://console.cloud.google.com/freetrial">
-        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>GCP
-    </td>
-<!--     <td align="center" width="96">
-      <a href="https://docs.djangoproject.com/" >
-        <img src="./img/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td> -->
-<!--   <td align="center" width="96">
-      <a href="https://nodejs.org/en/docs/">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td> -->
-  </tr>
-</table>
+Here are my recent **top tools and techniques** 🛠️ used to tackle complex projects in **Machine Learning (ML) 🤖** and **Computer Vision (CV) 👁️**:  
 
-<h2 align="left" id="">Internet of Things and Mobile Robotics</h2>
+### 🎯 **Machine Learning Tools**  
+- 🔹 **Frameworks**: 🏗️ TensorFlow, 🔥 PyTorch, 🧠 Scikit-learn  
+- 🔹 **Optimization**: 🚀 TensorRT, 🔄 ONNX  
+- 🔹 **Data Processing**: 📊 NumPy, 📝 Pandas  
+- 🔹 **Visualization**: 📉 Matplotlib, 📊 Plotly  
+- 🔹 **Model Deployment**: 🖥️ TensorFlow, 🌐 Flask, ⚡ FastAPI  
+- 🔹 **Cloud Platforms**: ☁️ Google Cloud AI  
+- 🔹 **Version Control**: 🏷️ MLflow, 📈 Weights & Biases  
 
-> Recent areas of exploration:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.ros.org/about-ros/">
-        <img src="./img/ros.svg" width="48" height="48" alt="ROS" />
-      </a>
-      <br>ROS/ROS2
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/microcontroller.jpg" width="48" height="48" alt="Microcontrollers" />
-      </a>
-      <br>Microcontrollers
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/embedded-systems.jpg" width="48" height="48" alt="Embedded Systems" />
-      </a>
-      <br>Embedded
-    </td>
-     <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://docs.docker.com/" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://grafana.com/docs/" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/bash.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-  </tr>
-</table>
+### 🖼️ **Computer Vision Techniques**  
+- 🟢 **Image Processing**: 📷 OpenCV  
+- 🟡 **Object Detection**: 🎯 YOLO, ⚡ Faster R-CNN, 🏎️ SSD  
+- 🔴 **Segmentation**: 🏆 Mask R-CNN  
+- 🟣 **Pose Estimation**: 🏃 OpenPose, ✋ MediaPipe  
+- 🔵 **3D Vision**: 🛠️ Open3D  
+- 🟠 **Augmentation**: 🔄 torchvision.transforms 
 
-<h2 align="left" id="macropower-tech">Machine Learning</h2>
+## **Machine Learning & Computer Vision**
 
 > Also exploring:
 
@@ -225,64 +121,136 @@
   </tr>
 </table>
 
-<!--
-<h2 align="left" id="macropower-tech">DevOps tools</h2>
 
-> I am going to learn the following tech:
+---
+
+## **Web Development Technology Stack**
+
+> Here's the tech stack I work with daily:
 
 <table>
   <tr>
-      <td align="center" width="96">
-      <a href="https://docs.ansible.com/">
-        <img src="./img/ansible-icon.svg" width="48" height="48" alt="Ansible" />
+     <td align="center" width="96"> 
+      <a href="https://dev.w3.org/html5/html-author/" >
+        <img src="./img/html.svg" width="48" height="48" alt="HTML" />
       </a>
-      <br>Ansible
+      <br>HTML
+    </td>
+    <td align="center"  width="96">
+      <a href="https://css-tricks.com/">
+        <img src="./img/css.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="https://kubernetes.io/docs/home/">
-        <img src="./img/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Kubernetes
+      <br>Bootstrap
+    </td>
     </td>
     <td align="center" width="96">
-      <a href="https://docs.influxdata.com/">
-        <img src="./img/influxdb.svg" width="48" height="48" alt="InfluxDB" />
+      <a href="https://developer.chrome.com/docs/devtools/" >
+        <img src="./img/devtools.svg" width="48" height="48" alt="DevTools" />
       </a>
-      <br>InfluxDB
+      <br>DevTools
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://docs.python.org/3/">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops">
-        <img src="./img/azure.svg" width="48" height="48" alt="Azure DevOps" />
+      <a href="https://flask.palletsprojects.com/en/1.1.x/">
+        <img src="./img/flask.svg" width="48" height="48" alt="Flask" />
       </a>
-      <br>Azure DevOps
-      <td align="center" width="96">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="./img/c.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
+      <br>Flask
     </td>
-      <td align="center" width="96">
-      <a href="https://selenium-python.readthedocs.io/">
-        <img src="./img/selenium-logo.svg" width="48" height="48" alt="Selenium" />
+    <td align="center" width="96">
+      <a href="https://devdocs.io/javascript/">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>Selenium
+      <br>JavaScript
     </td>
-    
+    <td align="center" width="96">
+      <a href="https://console.cloud.google.com/freetrial">
+        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>GCP
+    </td>
   </tr>
 </table>
--->
 
-<!--
-**PiotrG1996/PiotrG1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## **Internet of Things and Mobile Robotics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Recent areas of exploration:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.ros.org/about-ros/">
+        <img src="./img/ros.svg" width="48" height="48" alt="ROS" />
+      </a>
+      <br>ROS/ROS2
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/microcontroller.jpg" width="48" height="48" alt="Microcontrollers" />
+      </a>
+      <br>Microcontrollers
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/embedded-systems.jpg" width="48" height="48" alt="Embedded Systems" />
+      </a>
+      <br>Embedded
+    </td>
+     <td align="center" width="96">
+      <a href="https://docs.python.org/3/">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="https://docs.docker.com/" >
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://grafana.com/docs/" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/bash.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+  </tr>
+</table>
+
+---
+
+## **Let's Connect!**
+- 🌐 [Portfolio Website](https://piotrgapski.info.pl)
+- 📧 [Email](piotrgapski96@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/piotr-gapski)
+
+---
+
+**Piotr Gapski**  © 2025 | Machine Learning & Computer Vision Engineer | Open to new Opportunities!
