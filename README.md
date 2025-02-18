@@ -30,16 +30,16 @@
 
 ## 🚀✨ **Top Machine Learning Tools & Computer Vision Techniques**  
 
-Here are my recent **top tools and techniques** 🛠️ used to tackle complex projects in **Machine Learning (ML) 🤖** and **Computer Vision (CV) 👁️**:  
+Here are my recent **top tools and techniques** 🛠️ used to tackle complex projects in **Machine Learning 🤖** and **Computer Vision 👁️**:  
 
 ### 🎯 **Machine Learning Tools**  
-- 🔹 **Frameworks**: 🏗️ TensorFlow, 🔥 PyTorch, 🧠 Scikit-learn  
-- 🔹 **Optimization**: 🚀 TensorRT, 🔄 ONNX  
-- 🔹 **Data Processing**: 📊 NumPy, 📝 Pandas  
-- 🔹 **Visualization**: 📉 Matplotlib, 📊 Plotly  
-- 🔹 **Model Deployment**: 🖥️ TensorFlow, 🌐 Flask, ⚡ FastAPI  
-- 🔹 **Cloud Platforms**: ☁️ Google Cloud AI  
-- 🔹 **Version Control**: 🏷️ MLflow, 📈 Weights & Biases  
+-  **Frameworks**: 🏗️ TensorFlow, 🔥 PyTorch, 🧠 Scikit-learn  
+-  **Optimization**: 🚀 TensorRT, 🔄 ONNX  
+-  **Data Processing**: 📊 NumPy, 📝 Pandas  
+-  **Visualization**: 📉 Matplotlib, 📊 Plotly  
+-  **Model Deployment**: 🖥️ TensorFlow, 🌐 Flask, ⚡ FastAPI  
+-  **Cloud Platforms**: ☁️ Google Cloud AI  
+-  **Version Control**: 🏷️ MLflow, 📈 Weights & Biases  
 
 ### 🖼️ **Computer Vision Techniques**  
 - 🟢 **Image Processing**: 📷 OpenCV  
