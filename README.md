@@ -1,4 +1,4 @@
-# Piotr Gapski | Machine Learning & Computer Vision Engineer
+# Piotr Gapski 
 
 </br>
 <table align="center">
@@ -26,231 +26,99 @@
 </tr>
 </table>
 
----
+## 🚀 Machine Learning & Computer Vision Stack
 
-## 🚀✨ **Top Machine Learning Tools & Computer Vision Techniques**  
-
-Here are my recent **top tools and techniques** 🛠️ used to tackle complex projects in **Machine Learning 🤖** and **Computer Vision 👁️**:  
-
-### 🎯 **Machine Learning Tools**  
--  **Frameworks**: 🏗️ TensorFlow, 🔥 PyTorch, 🧠 Scikit-learn  
--  **Optimization**: 🚀 TensorRT, 🔄 ONNX  
--  **Data Processing**: 📊 NumPy, 📝 Pandas  
--  **Visualization**: 📉 Matplotlib, 📊 Plotly  
--  **Model Deployment**: 🖥️ TensorFlow, 🌐 Flask, ⚡ FastAPI  
--  **Cloud Platforms**: ☁️ Google Cloud AI  
--  **Version Control**: 🏷️ MLflow, 📈 Weights & Biases  
-
-### 🖼️ **Computer Vision Techniques**  
-- 🟢 **Image Processing**: 📷 OpenCV  
-- 🟡 **Object Detection**: 🎯 YOLO, ⚡ Faster R-CNN, 🏎️ SSD  
-- 🔴 **Segmentation**: 🏆 Mask R-CNN  
-- 🟣 **Pose Estimation**: 🏃 OpenPose, ✋ MediaPipe  
-- 🔵 **3D Vision**: 🛠️ Open3D  
-- 🟠 **Augmentation**: 🔄 torchvision.transforms 
-
-## **Machine Learning & Computer Vision**
-
-> Also exploring:
-
-<table>
-  <tr>
-      <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-     <td align="center" width="96">
-      <a href="https://pytorch.org/">
-        <img src="./img/pytorch.svg" width="48" height="48" alt="Pytorch" />
-      </a>
-      <br>Pytorch
-    </td>
-      <td align="center" width="96">
-      <a href="https://numpy.org/">
-        <img src="./img/numpy.svg" width="48" height="48" alt="NumPy" />
-      </a>
-      <br>NumPy
-    </td>
-      </td>
-     <td align="center" width="96">
-      <a href="https://console.cloud.google.com/freetrial">
-        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>GCP
-    </td>
-      <td align="center" width="96">
-      <a href="https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html">
-        <img src="./img/tensorRT.png" width="80" height="48" alt="TensorRT" />
-      </a>
-      <br>TensorRT
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://opencv.org/" >
-        <img src="./img/opencv.png" width="48" height="48" alt="OpenCV" />
-      </a>
-      <br>OpenCV
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="./img/jupyter.svg" width="48" height="48" alt="Jupyter" />
-      </a>
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.nvidia.com/en-us/autonomous-machines/jetson-store/">
-        <img src="./img/nvidia.svg" width="48" height="48" alt="Nvidia" />
-      </a>
-      <br>Nvidia
-    </td>
-     <td align="center" width="96">
-      <a href="https://www.blender.org/">
-        <img src="./img/blender.png" width="48" height="48" alt="Blender" />
-      </a>
-      <br>Blender
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-  </tr>
-</table>
-
+Below is a selection of tools and technologies I use in daily work on perception, learning-based control, and robotic systems.
 
 ---
 
-## **Web Development Technology Stack**
+### 🎯 Machine Learning
 
-> Here's the tech stack I work with daily:
+**Frameworks and libraries**
 
-<table>
-  <tr>
-     <td align="center" width="96"> 
-      <a href="https://dev.w3.org/html5/html-author/" >
-        <img src="./img/html.svg" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center"  width="96">
-      <a href="https://css-tricks.com/">
-        <img src="./img/css.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.chrome.com/docs/devtools/" >
-        <img src="./img/devtools.svg" width="48" height="48" alt="DevTools" />
-      </a>
-      <br>DevTools
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="https://flask.palletsprojects.com/en/1.1.x/">
-        <img src="./img/flask.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <a href="https://devdocs.io/javascript/">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://console.cloud.google.com/freetrial">
-        <img src="./img/google-cloud.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>GCP
-    </td>
-  </tr>
-</table>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+**Optimization and deployment**
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+
+**Data processing and experimentation**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?logo=tensorflow&logoColor=white)
+
+**Experiment tracking**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00)
 
 ---
 
-## **Internet of Things and Mobile Robotics**
+### 🖼️ Computer Vision
 
-> Recent areas of exploration:
+**Core libraries**
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.ros.org/about-ros/">
-        <img src="./img/ros.svg" width="48" height="48" alt="ROS" />
-      </a>
-      <br>ROS/ROS2
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/microcontroller.jpg" width="48" height="48" alt="Microcontrollers" />
-      </a>
-      <br>Microcontrollers
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/embedded-systems.jpg" width="48" height="48" alt="Embedded Systems" />
-      </a>
-      <br>Embedded
-    </td>
-     <td align="center" width="96">
-      <a href="https://docs.python.org/3/">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="https://docs.docker.com/" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://grafana.com/docs/" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Grafana
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="./img/Ubuntu.svg" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/bash.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-  </tr>
-</table>
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?logo=opencv&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-4B8BBE)
+
+**Methods and models**
+
+- Object detection (YOLO, Faster R-CNN, SSD)  
+- Semantic and instance segmentation (Mask R-CNN and related architectures)  
+- Pose estimation (OpenPose, MediaPipe)  
+- RGB-D perception and depth-based scene understanding  
+- Data augmentation and preprocessing pipelines  
 
 ---
 
-## **Let's Connect!**
-- 🌐 [Portfolio Website](https://piotrgapski.info.pl)
-- 📧 [Email](piotrgapski96@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/piotr-gapski)
+## 🌐 Web & API Development
+
+Used mainly for model serving, experiment dashboards, internal tools, and lightweight system interfaces.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ---
 
-**Piotr Gapski**  © 2025 | Machine Learning & Computer Vision Engineer | Open to new Opportunities!
+## 🤖 Robotics, IoT & Systems
+
+Technologies used in mobile robotics projects, simulation environments, and deployment on embedded platforms.
+
+![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?logo=nvidia&logoColor=white)
+![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
+Additional experience includes:
+
+- Embedded systems and microcontroller-based platforms  
+- Real-time data acquisition and processing  
+- Simulation-to-real transfer in robotic learning pipelines  
+- System monitoring, diagnostics, and telemetry  
+
+---
+
+## 📬 Contact
+
+- 🌐 Website: https://piotrgapski.info.pl  
+- 📧 Email: piotrgapski96@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/piotr-gapski  
+
+---
+
+© 2026 Piotr Gapski  
+Machine Learning · Computer Vision · Robotics Engineer
