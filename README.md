@@ -115,7 +115,8 @@ Additional experience includes:
 ## 📬 Contact
 
 - 🌐 Website: https://piotrgapski.info.pl  
-- 📧 Email: piotrgapski96@gmail.com  
+- 📧 Private Email: piotrgapski96@gmail.com
+- 📧 Email: piotr.gapski@doctorate.put.poznan.pl
 - 💼 LinkedIn: https://www.linkedin.com/in/piotr-gapski  
 
 ---
