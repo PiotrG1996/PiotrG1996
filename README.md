@@ -12,9 +12,9 @@ Developing reliable robotic systems through software engineering, intelligent al
 <p>
   <a href="https://github.com/PiotrG1996?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
   <a href="https://www.linkedin.com/in/piotr-gapski"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://roboticsgapsystems.com/"><img src="https://img.shields.io/badge/WEBSITE-2563EB?style=for-the-badge&logo=internetarchive&logoColor=white" alt="Website"></a>
   <a href="mailto:piotrgapski96@gmail.com"><img src="https://img.shields.io/badge/CONTACT-374151?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact"></a>
 </p>
-
 </div>
 
 ---
