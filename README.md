@@ -91,7 +91,7 @@ Maintainable code, reproducible development environments, structured configurati
 
 ---
 
-## Selected Projects
+## Selected Educational Projects
 
 Selected engineering work across autonomous robotics, edge AI, embedded systems, and sensor integration.
 
